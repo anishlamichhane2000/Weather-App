@@ -1,7 +1,8 @@
 # moru_assiqnment
 
 A new Flutter project.
-there is screenshot which imclude the UI of the weatherApp
+this is flutter intern task
+there is screenshot which include the UI of the weatherApp
 
 ## Getting Started
 
