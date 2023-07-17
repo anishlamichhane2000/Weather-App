@@ -2,9 +2,9 @@
 
 A new Flutter project.
 
-This is flutter intern task by moru
+This is flutter intern task by Moru
 
-there is screenshot file  which include the UI of the weatherApp
+There is screenshot file  which include the UI of the weatherApp and APK Version of the weather app
 
 ## Getting Started
 
